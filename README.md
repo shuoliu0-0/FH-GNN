@@ -5,7 +5,7 @@
 
 * We propose a novel Fingerprint-enhanced Hierarchical Graph Neural Network (FH-GNN) for molecular property prediction, which simultaneously learned information from both hierarchical molecular graphs and molecular fingerprints.
 
-![Fingerprint-enhanced Hierarchical Graph Neural Network](images/fig1.tif)
+![Fingerprint-enhanced Hierarchical Graph Neural Network](images/fig1.png)
 
 
 ## Dataset
